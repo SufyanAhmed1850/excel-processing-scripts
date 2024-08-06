@@ -1,0 +1,21 @@
+{
+  "name": "gsk-korangi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index",
+    "req": "node keep-required.js",
+    "data": "node copy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dayjs": "^1.11.11",
+    "exceljs": "^4.4.0",
+    "xlsx-populate": "^1.21.0"
+  }
+}

@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local development environments
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE files
+.idea
+*.iml
+*.suo
+*.cache
+*.local
+*.sh
+*.bat
+
+# Log files
+logs/
+Sauce/
+Generated/
+Final/
+
+
+# Test results
+coverage/
+test-results/
+
+# Build artifacts
+build/
+dist/
